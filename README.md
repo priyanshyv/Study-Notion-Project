@@ -94,10 +94,7 @@ The StudyNotion platform's API is designed following the REST architectural styl
 For detailed API documentation and endpoints, refer to the [API Documentation](/api-docs).
 
 ## Installation
-
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Navigate to the project directory: `cd StudyNotion`
-3. Install dependencies: `npm install`
+1.npm install for dowload the node modules
 
 ## Configuration
 
@@ -108,13 +105,6 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
    JWT_SECRET=<your-jwt-secret-key>
    ```
 
-## Usage
-
-1. Start the server: `npm start`
-2. Open a new terminal and navigate to the `client` directory: `cd client`
-3. Start the React development server: `npm start`
-
-Access the application in your browser at `http://localhost:3000`.
 
 
 
